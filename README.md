@@ -70,54 +70,54 @@ java com.mycompany.mini_project.Mini_Project
 ### 1. Menu Utama
 Tampilan awal program saat pertama kali dijalankan.
 
-![Menu Utama](screenshots/01-menu-utama.png)
+![Menu Utama](screenshots01-menu-utama.png)
 
 ### 2. Tambah Pemain
 Proses memasukkan data pemain baru hingga berhasil ditambahkan.
 
-![Tambah Pemain](screenshots/02-tambah-pemain.png)
+![Tambah Pemain](screenshots02-tambah-pemain.png)
 
 ### 3. Lihat Semua Pemain
 Menampilkan seluruh data pemain yang sudah tersimpan.
 
-![Lihat Semua Pemain](screenshots/03-lihat-pemain.png)
+![Lihat Semua Pemain](screenshots03-lihat-pemain.png)
 
 ### 4. Update Status Pemain
 Proses memperbarui status kesehatan pemain (misalnya dari "Tersedia" menjadi "Cedera").
 
-![Update Status Pemain](screenshots/04-update-status.png)
+![Update Status Pemain](screenshots04-update-status.png)
 
 ### 5. Hapus Pemain
 Proses menghapus data pemain berdasarkan nama.
 
-![Hapus Pemain](screenshots/05-hapus-pemain.png)
+![Hapus Pemain](screenshots05-hapus-pemain.png)
 
 ### 6. Tambah Pertandingan
 Proses mencatat pertandingan baru (lawan, tanggal, kompetisi, skor, dan lokasi).
 
-![Tambah Pertandingan](screenshots/06-tambah-pertandingan.png)
+![Tambah Pertandingan](screenshots06-tambah-pertandingan.png)
 
 ### 7. Lihat Riwayat Pertandingan
 Menampilkan seluruh riwayat pertandingan beserta hasil (Menang/Kalah/Seri) yang dihitung otomatis dari skor.
 
-![Lihat Riwayat Pertandingan](screenshots/07-lihat-pertandingan.png)
+![Lihat Riwayat Pertandingan](screenshots07-lihat-pertandingan.png)
 
 ### 8. Tambah Pelatih
 Proses memasukkan data pelatih baru hingga berhasil ditambahkan.
 
-![Tambah Pelatih](screenshots/08-tambah-pelatih.png)
+![Tambah Pelatih](screenshots08-tambah-pelatih.png)
 
 ### 9. Lihat Semua Pelatih
 Menampilkan seluruh data pelatih yang sudah tersimpan.
 
-![Lihat Semua Pelatih](screenshots/09-lihat-pelatih.png)
+![Lihat Semua Pelatih](screenshots09-lihat-pelatih.png)
 
 ### 10. Validasi Input
 Contoh program menolak input yang tidak valid (misalnya huruf saat diminta angka, atau posisi pemain yang tidak dikenali).
 
-![Validasi Input](screenshots/10-validasi-input.png)
+![Validasi Input](screenshots10-validasi-input.png)
 
 ### 11. Keluar Program
 Tampilan saat pengguna memilih menu Keluar dan program berhenti.
 
-![Keluar Program](screenshots/11-keluar.png)
+![Keluar Program](screenshots11-keluar.png)
