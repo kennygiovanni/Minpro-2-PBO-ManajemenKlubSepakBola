@@ -191,7 +191,7 @@ Berikut adalah dokumentasi visual antarmuka dan keluaran program saat dijalankan
 #### B. Lihat Daftar Pelatih
 > Menampilkan daftar pelatih yang ada di dalam klub.
 
-![Lihat Daftar Pelatih](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/screenshots09-lihat-pelatih.png)
+![Lihat Daftar Pelatih](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/Screenshot%202026-09-24%20205105.png)
 
 ---
 
