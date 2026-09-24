@@ -150,7 +150,7 @@ Berikut adalah dokumentasi visual antarmuka dan keluaran program saat dijalankan
 #### A. Tambah Data Pemain 
 > Proses menginput data pemain baru beserta pengujian input validasi angka/posisi.
 
-![Tambah Pemain](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/screenshots02-tambah-pemain.png)
+![Tambah Pemain](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/Screenshot%202026-09-24%20210832.png)
 
 #### B. Lihat Daftar Pemain
 > Output daftar seluruh pemain yang tersimpan di sistem, memanfaatkan method `tampilkanInfo()`.
