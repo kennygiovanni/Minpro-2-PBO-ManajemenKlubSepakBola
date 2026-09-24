@@ -198,4 +198,4 @@ Berikut adalah dokumentasi visual antarmuka dan keluaran program saat dijalankan
 ### 5. Keluar dari Program
 > Pesan konfirmasi penutupan program ketika pengguna memilih menu angka 9.
 
-![Keluar Program](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/screenshots10-keluar.png)
+![Keluar Program](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/Screenshot%202026-09-24%20205131.png)
