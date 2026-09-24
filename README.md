@@ -142,30 +142,30 @@ Berikut adalah dokumentasi visual antarmuka dan keluaran program saat dijalankan
 ### 1. Tampilan Sambutan & Menu Utama
 > Menampilkan menu pilihan sistem manajemen klub saat pertama kali program dijalankan.
 
-![Tampilan Menu Utama](Screenshots/01-menu-utama.png)
+![Tampilan Menu Utama](screenshots/01-menu-utama.png)
 
 ---
 
 ### 2. Fitur Manajemen Pemain
-#### A. Tambah Data Pemain (Input & Validasi)
+#### A. Tambah Data Pemain 
 > Proses menginput data pemain baru beserta pengujian input validasi angka/posisi.
 
-![Tambah Pemain](Screenshots/02-tambah-pemain.png)
+![Tambah Pemain](screenshots/02-tambah-pemain.png)
 
 #### B. Lihat Daftar Pemain
 > Output daftar seluruh pemain yang tersimpan di sistem, memanfaatkan method `tampilkanInfo()`.
 
-![Lihat Daftar Pemain](Screenshots/03-lihat-pemain.png)
+![Lihat Daftar Pemain](screenshots/03-lihat-pemain.png)
 
 #### C. Update Status Pemain
 > Proses penghapusan data pemain dari sistem berdasarkan nama yang diinputkan pengguna.
 
-![Hapus Pemain](Screenshots/04-hapus-pemain.png)
+![Hapus Pemain](screenshots/04-hapus-pemain.png)
 
 #### D. Hapus Pemain
 > Pembaruan status kesehatan pemain (Tersedia/Cedera) berdasarkan nama pemain yang dicari.
 
-![Update Status Pemain](Screenshots/05-update-status-pemain.png)
+![Update Status Pemain](screenshots/05-update-status-pemain.png)
 
 ---
 
@@ -173,12 +173,12 @@ Berikut adalah dokumentasi visual antarmuka dan keluaran program saat dijalankan
 #### A. Tambah Pertandingan
 > Mengisi riwayat pertandingan baru meliputi tim lawan, tanggal, skor, dan lokasi pertandingan.
 
-![Tambah Pertandingan](Screenshots/06-tambah-pertandingan.png)
+![Tambah Pertandingan](screenshots/06-tambah-pertandingan.png)
 
 #### B. Lihat Riwayat Pertandingan
 > Menampilkan riwayat seluruh pertandingan yang telah ditambahkan.
 
-![Lihat Riwayat Pertandingan](Screenshots/07-lihat-pertandingan.png)
+![Lihat Riwayat Pertandingan](screenshots/07-lihat-pertandingan.png)
 
 ---
 
@@ -186,16 +186,16 @@ Berikut adalah dokumentasi visual antarmuka dan keluaran program saat dijalankan
 #### A. Tambah Pelatih
 > Menginput data pelatih baru beserta spesialisasi dan pengalaman melatih.
 
-![Tambah Pelatih](Screenshots/08-tambah-pelatih.png)
+![Tambah Pelatih](screenshots/08-tambah-pelatih.png)
 
 #### B. Lihat Daftar Pelatih
 > Menampilkan daftar pelatih yang ada di dalam klub.
 
-![Lihat Daftar Pelatih](Screenshots/09-lihat-pelatih.png)
+![Lihat Daftar Pelatih](screenshots/09-lihat-pelatih.png)
 
 ---
 
 ### 5. Keluar dari Program
 > Pesan konfirmasi penutupan program ketika pengguna memilih menu angka 9.
 
-![Keluar Program](Screenshots/10-keluar.png)
+![Keluar Program](screenshots/10-keluar.png)
