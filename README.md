@@ -157,12 +157,12 @@ Berikut adalah dokumentasi visual antarmuka dan keluaran program saat dijalankan
 
 ![Lihat Daftar Pemain](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/Screenshot%202026-09-24%20210853.png)
 
-#### C. Update Status Pemain
+#### C. Hapus Pemain
 > Proses penghapusan data pemain dari sistem berdasarkan nama yang diinputkan pengguna.
 
 ![Hapus Pemain](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/screenshots04-hapus-pemain.png)
 
-#### D. Hapus Pemain
+#### D. Update Status Pemain 
 > Pembaruan status kesehatan pemain (Tersedia/Cedera) berdasarkan nama pemain yang dicari.
 
 ![Update Status Pemain](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/screenshots05-update-status-pemain.png)
