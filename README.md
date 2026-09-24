@@ -142,7 +142,7 @@ Berikut adalah dokumentasi visual antarmuka dan keluaran program saat dijalankan
 ### 1. Tampilan Sambutan & Menu Utama
 > Menampilkan menu pilihan sistem manajemen klub saat pertama kali program dijalankan.
 
-![Tampilan Menu Utama](screenshots/screenshots/01-menu-utama.png)
+![Tampilan Menu Utama](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/screenshots01-menu-utama.png) 
 
 ---
 
