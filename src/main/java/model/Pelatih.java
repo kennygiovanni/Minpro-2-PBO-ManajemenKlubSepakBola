@@ -1,18 +1,13 @@
-package data_klub;
+package model;
 
-public class Pelatih {
-    private String nama;
+public class Pelatih extends AnggotaKlub{
     private String spesialisasi;
     private int pengalaman;
     
     public Pelatih(String nama, String spesialisasi, int pengalaman) {
-        setNama(nama);
-        setSpesialisasi(spesialisasi);
+        super(nama);
+        this.spesialisasi = spesialisasi;
         setPengalaman(pengalaman);
-    }
-    
-    public String getNama(){
-        return nama;
     }
     
     public String getSpesialisasi(){
@@ -21,10 +16,6 @@ public class Pelatih {
     
     public int getPengalaman(){
         return pengalaman;
-    }
-    
-    public void setNama(String nama) {
-        this.nama = nama;
     }
     
     public void setSpesialisasi(String spesialisasi){
@@ -37,14 +28,14 @@ public class Pelatih {
         }
         else {
             this.pengalaman = 0;
-            System.out.println("Tahun Pengalaman tidak valid, diset ke 0");
+            System.out.println("Tahun Pengalaman tidak valid, diset ke 0.");
         }
     }
 
-    public void tampilkanInfo() {
-         System.out.println("Nama        : " + nama);
-         System.out.println("Spesialisasi: " + spesialisasi);
-         System.out.println("Pengalaman  : " + pengalaman + " tahun");
-         System.out.println("--------------------------");
-    }
+    @Override
+    public String getInfo() {
+        return super.getInfo()
+        + "\nSpesialisasi     : " + spesialisasi
+        + "\nPengalaman       : " + pengalaman;
+    }     
 }

@@ -1,23 +1,19 @@
-package data_klub;
+package model;
 
-public class Pemain {
-    private String nama;
+public class Pemain extends AnggotaKlub {
     private String posisi;
     private int nomorPunggung;
     private int usia;
     private String statusKesehatan;
     
     public Pemain(String nama, String posisi, int nomorPunggung, int usia, String statusKesehatan) {
-        this.nama = nama;
+        super(nama);
         setPosisi(posisi);
         setNomorPunggung(nomorPunggung);
         setUsia(usia);
         setStatusKesehatan(statusKesehatan);
     }
 
-    public String getNama() {
-        return nama;
-    }
     public String getPosisi() {
         return posisi;
     }
@@ -29,10 +25,6 @@ public class Pemain {
     }
     public String getStatusKesehatan() {
         return statusKesehatan;
-    }
-    
-    public void setNama(String nama) {
-        this.nama = nama;
     }
     
     public void setPosisi(String posisi) {
@@ -47,7 +39,7 @@ public class Pemain {
             posisi.equalsIgnoreCase("RW") ||
             posisi.equalsIgnoreCase("ST")) {
             this.posisi = posisi.toUpperCase();
-    }
+            }
         else {
             this.posisi = "ST";
             System.out.println("Posisi Tidak Tersedia, diset ke ST.");
@@ -83,13 +75,13 @@ public class Pemain {
            System.out.println("Status kesehatan harus 'Tersedia' atau 'Cedera', diset ke Tersedia.");
         }
     }
-   
-    public void tampilkanInfo() {
-        System.out.println("Nama            : " + nama);
-        System.out.println("Posisi          : " + posisi);
-        System.out.println("No. Punggung    : " + nomorPunggung);
-        System.out.println("Usia            : " + usia);
-        System.out.println("Status Kesehatan: " + statusKesehatan);
-        System.out.println("-------------------------------");
+    
+    @Override
+    public String getInfo() {
+        return super.getInfo()
+        + "\nPosisi           : " + posisi
+        + "\nNo. Punggung     : " + nomorPunggung
+        + "\nUsia             : " + usia
+        + "\nStatus Kesehatan : " + statusKesehatan;
     }   
 }

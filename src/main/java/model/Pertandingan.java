@@ -1,4 +1,4 @@
-package operasional;
+package model;
 
 public class Pertandingan {
     private String lawan;
@@ -41,7 +41,6 @@ public class Pertandingan {
         return lokasi;
     }
 
-    // Setter dengan validasi
     public void setLawan(String lawan) {
         this.lawan = lawan;
     }
@@ -94,15 +93,5 @@ public class Pertandingan {
         else{
             return "Seri";
         }
-    }
-    
-    public void tampilkanInfo() {
-        System.out.println("Lawan    :" + lawan);
-        System.out.println("Tanggal  :" + tanggal);
-        System.out.println("Kompetisi:" + kompetisi);
-        System.out.println("Skor     :" + skorKlub + "-" + skorLawan);
-        System.out.println("Lokasi   :" + lokasi);
-        System.out.println("hasil    :" + getHasil());
-        System.out.println("----------------------");
     }
 }

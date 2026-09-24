@@ -8,7 +8,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.compiler.release>26</maven.compiler.release>
-        <exec.mainClass>com.mycompany.mini_project.Mini_Project</exec.mainClass>
+        <exec.mainClass>com.mycompany.mini_project.Main</exec.mainClass>
     </properties>
     <name>MiniProject</name>
 </project>
