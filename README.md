@@ -155,7 +155,7 @@ Berikut adalah dokumentasi visual antarmuka dan keluaran program saat dijalankan
 #### B. Lihat Daftar Pemain
 > Output daftar seluruh pemain yang tersimpan di sistem, memanfaatkan method `tampilkanInfo()`.
 
-![Lihat Daftar Pemain](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/screenshots03-lihat-pemain.png)
+![Lihat Daftar Pemain](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/Screenshot%202026-09-24%20210853.png)
 
 #### C. Update Status Pemain
 > Proses penghapusan data pemain dari sistem berdasarkan nama yang diinputkan pengguna.
