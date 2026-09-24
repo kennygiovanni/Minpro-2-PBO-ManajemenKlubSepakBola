@@ -178,7 +178,7 @@ Berikut adalah dokumentasi visual antarmuka dan keluaran program saat dijalankan
 #### B. Lihat Riwayat Pertandingan
 > Menampilkan riwayat seluruh pertandingan yang telah ditambahkan.
 
-![Lihat Riwayat Pertandingan](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/screenshots07-lihat-pertandingan.png)
+![Lihat Riwayat Pertandingan](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/Screenshot%202026-09-24%20204947.png)
 
 ---
 
