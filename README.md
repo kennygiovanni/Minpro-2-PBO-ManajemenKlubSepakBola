@@ -150,22 +150,22 @@ Berikut adalah dokumentasi visual antarmuka dan keluaran program saat dijalankan
 #### A. Tambah Data Pemain 
 > Proses menginput data pemain baru beserta pengujian input validasi angka/posisi.
 
-![Tambah Pemain](screenshots/screenshots/02-tambah-pemain.png)
+![Tambah Pemain](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/screenshots02-tambah-pemain.png)
 
 #### B. Lihat Daftar Pemain
 > Output daftar seluruh pemain yang tersimpan di sistem, memanfaatkan method `tampilkanInfo()`.
 
-![Lihat Daftar Pemain](screenshots/screenshots/03-lihat-pemain.png)
+![Lihat Daftar Pemain](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/screenshots03-lihat-pemain.png)
 
 #### C. Update Status Pemain
 > Proses penghapusan data pemain dari sistem berdasarkan nama yang diinputkan pengguna.
 
-![Hapus Pemain](screenshots/screenshots/04-hapus-pemain.png)
+![Hapus Pemain](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/screenshots04-hapus-pemain.png)
 
 #### D. Hapus Pemain
 > Pembaruan status kesehatan pemain (Tersedia/Cedera) berdasarkan nama pemain yang dicari.
 
-![Update Status Pemain](screenshots/screenshots/05-update-status-pemain.png)
+![Update Status Pemain](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/screenshots05-update-status-pemain.png)
 
 ---
 
@@ -173,12 +173,12 @@ Berikut adalah dokumentasi visual antarmuka dan keluaran program saat dijalankan
 #### A. Tambah Pertandingan
 > Mengisi riwayat pertandingan baru meliputi tim lawan, tanggal, skor, dan lokasi pertandingan.
 
-![Tambah Pertandingan](screenshots/screenshots/06-tambah-pertandingan.png)
+![Tambah Pertandingan](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/screenshots06-tambah-pertandingan.png)
 
 #### B. Lihat Riwayat Pertandingan
 > Menampilkan riwayat seluruh pertandingan yang telah ditambahkan.
 
-![Lihat Riwayat Pertandingan](screenshots/screenshots/07-lihat-pertandingan.png)
+![Lihat Riwayat Pertandingan](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/screenshots07-lihat-pertandingan.png)
 
 ---
 
@@ -186,16 +186,16 @@ Berikut adalah dokumentasi visual antarmuka dan keluaran program saat dijalankan
 #### A. Tambah Pelatih
 > Menginput data pelatih baru beserta spesialisasi dan pengalaman melatih.
 
-![Tambah Pelatih](screenshots/screenshots/08-tambah-pelatih.png)
+![Tambah Pelatih](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/screenshots08-tambah-pelatih.png)
 
 #### B. Lihat Daftar Pelatih
 > Menampilkan daftar pelatih yang ada di dalam klub.
 
-![Lihat Daftar Pelatih](screenshots/screenshots/09-lihat-pelatih.png)
+![Lihat Daftar Pelatih](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/screenshots09-lihat-pelatih.png)
 
 ---
 
 ### 5. Keluar dari Program
 > Pesan konfirmasi penutupan program ketika pengguna memilih menu angka 9.
 
-![Keluar Program](screenshots/screenshots/10-keluar.png)
+![Keluar Program](https://github.com/kennygiovanni/Minpro-2-PBO-ManajemenKlubSepakBola/blob/master/screenshots/screenshots10-keluar.png)
